@@ -40,7 +40,7 @@ const footer = () => {
           <div className="footerIntro flex">
             <div className="logoDiv">
             <a href="#" className='logo flex'>
-              <MdTravelExplore className="icon"/>Travel.
+              <MdTravelExplore className="icon"/>Travel.com
                 </a>
             </div>
 
